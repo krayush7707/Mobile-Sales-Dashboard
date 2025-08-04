@@ -61,7 +61,7 @@ Brand | Model | Payment Method | Day | Month (January–December)
 
 
 
-![Image Alt](https://github.com/badalsingh91461/mobile_Sales_dashboard/blob/main/mobile_Sales.Dashboard.png?raw=true)
+![Image Alt](https://github.com/krayush7707/Mobile-Sales-Dashboard/blob/main/mobile_Sales.Dashboard.png?raw=true)
 
 
 
@@ -120,4 +120,4 @@ This project reflects a practical application of Power BI to transform raw busin
 
 **
 9. Screenshots/Demos:**
-     dashboard looks like [Dashboard Preview].(https://github.com/badalsingh91461/mobile_Sales_dashboard/blob/main/mobile_Sales.Dashboard.png)
+     dashboard looks like [Dashboard Preview].(https://github.com/krayush7707/Mobile-Sales-Dashboard/blob/main/mobile_Sales.Dashboard.png)
